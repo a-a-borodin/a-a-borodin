@@ -49,6 +49,13 @@ AI bibliography formatter based on the standards of the Higher Attestation Commi
 
 Automated generation of photo tables for investigative action protocols. Developed for the Investigative Committee of the Republic of Belarus.
 
+### 📓 [AMIA Journal](https://github.com/a-a-borodin/amia-journal)
+* **Status:** In Development
+
+<img src="project5.jpg" width="600" alt="AMIA Journal Screen" />
+
+Frontend for an attendance and grade tracking service for the Academy of the Ministry of Internal Affairs of the Republic of Belarus. Features an interactive grade journal with inline editing and reporting tools.
+
 ---
 
 ## Achievements
