@@ -1,12 +1,15 @@
-<img src="avatar.jpg" width="130" align="right" alt="Artyom Borodin" />
-
-# Artyom Borodin
-
-*Academy of the Ministry of Internal Affairs of the Republic of Belarus*
-
-[Email](mailto:a.a.borodin@proton.me)
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td valign="top">
+      <h1>Artyom Borodin</h1>
+      <p><em>Academy of the Ministry of Internal Affairs of the Republic of Belarus</em></p>
+      <p><a href="mailto:a.a.borodin@proton.me">Email</a></p>
+    </td>
+    <td valign="top" width="150" align="right">
+      <img src="avatar.jpg" width="130" style="border-radius: 50%;" alt="Artyom Borodin" />
+    </td>
+  </tr>
+</table>
 
 ---
 
