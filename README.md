@@ -8,8 +8,6 @@
 
 <br clear="right"/>
 
----
-
 ## About Me
 I combine law and information technology. I build tools that make legal work faster and more accurate. Currently, I am focusing on Retrieval-Augmented Generation for the legal domain.
 
