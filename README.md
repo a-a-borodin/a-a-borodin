@@ -7,11 +7,7 @@
 ---
 
 ## About Me
-I combine law and information technology. I build tools that make legal work faster and more accurate. Currently, I am focusing on Retrieval-Augmented Generation for the legal domain.
-
-I combine law and information technology. Currently, I am a student at the Academy of the Ministry of Internal Affairs while also working in the IT department of a metropolitan university. 
-
-I build tools that make legal work faster and more accurate. Currently, I am focusing on Retrieval-Augmented Generation for the legal domain.
+I combine law and information technology. Currently, I am a student at the Academy of the Ministry of Internal Affairs while also working in the IT department of a metropolitan university. I build tools that make legal work faster and more accurate. 
 
 ---
 
