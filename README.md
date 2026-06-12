@@ -7,7 +7,10 @@
 ---
 
 ## About Me
-I combine law and information technology. Currently, I am a student at the Academy of the Ministry of Internal Affairs while also working in the IT department of a metropolitan university. I build tools that make legal work faster and more accurate. 
+
+I've been into tech since I was 13 — starting with game modding, then HTML/CSS, then building a browser game on Phaser 3, an Android app at around 17, and now full-stack web and AI tools.
+
+I combine law and IT: currently a student at the Academy of the Ministry of Internal Affairs while working in the IT department of a metropolitan university. I build tools that make legal and administrative work faster and more accurate.
 
 ---
 
