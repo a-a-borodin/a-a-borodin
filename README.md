@@ -82,6 +82,3 @@ Automated generation of photo tables for investigative action protocols. Develop
   
 * 🇷🇺 **Finalist of the Russian MIA Hackathon**  
   Big Data & AI in Law Enforcement track, Moscow.
-
----
-© 2026 Artyom Borodin
