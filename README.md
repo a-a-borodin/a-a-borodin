@@ -24,7 +24,7 @@ I combine law and IT: currently a student at the Academy of the Ministry of Inte
 
 ## Projects
 
-### ⚖️ [Borodinbaa Legal AI Assistant](https://a.a.borodin.github.io/borodinbaa-info/)
+### ⚖️ [Borodinbaa Legal AI Assistant](https://a-a-borodin.github.io/borodinbaa-info/)
 * **Status:** MVP
 
 <img src="project1.jpg" width="600" alt="Borodinbaa Legal AI Assistant Screen" />
