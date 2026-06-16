@@ -38,10 +38,10 @@ A RAG-based AI legal assistant. It analyzes legal acts of the Republic of Belaru
 
 Web service for the schedule of the Academy of the Ministry of Internal Affairs of the Republic of Belarus. Used daily by hundreds of cadets, students, and lecturers.
 
-### 🔗 [Ссылка.бай](https://purrfectref-866165811326.us-east1.run.app/)
+### 🔗 [Форматирование источников литературы](https://purrfectref-866165811326.us-east1.run.app/)
 * **Status:** MVP
 
-<img src="project3.jpg" width="600" alt="Ссылка.бай Screen" />
+<img src="project3.jpg" width="600" alt="Biblio-formatter Screen" />
 
 AI bibliography formatter based on the standards of the Higher Attestation Commission of the Republic of Belarus. Saves hours of manual work.
 
