@@ -1,7 +1,5 @@
 # Artyom Borodin
 
-*Academy of the Ministry of Internal Affairs of the Republic of Belarus*
-
 [Email](mailto:a.a.borodin@proton.me)
 
 ---
@@ -24,7 +22,7 @@ I combine law and IT: currently a student at the Academy of the Ministry of Inte
 
 ## Projects
 
-### ⚖️ [Borodinbaa Legal AI Assistant](https://a-a-borodin.github.io/borodinbaa-info/)
+### ⚖️ Borodinbaa Legal AI Assistant
 * **Status:** MVP
 
 <img src="project1.jpg" width="600" alt="Borodinbaa Legal AI Assistant Screen" />
@@ -38,21 +36,21 @@ A RAG-based AI legal assistant. It analyzes legal acts of the Republic of Belaru
 
 Web service for the schedule of the Academy of the Ministry of Internal Affairs of the Republic of Belarus. Used daily by hundreds of cadets, students, and lecturers.
 
-### 🔗 [Biblio-formatter](https://purrfectref-866165811326.us-east1.run.app/)
+### 🔗 Biblio-formatter
 * **Status:** MVP
 
 <img src="project3.jpg" width="600" alt="Biblio-formatter Screen" />
 
 AI bibliography formatter based on the standards of the Higher Attestation Commission of the Republic of Belarus. Saves hours of manual work.
 
-### 📷 [Photo Table Generator](https://docs-generator-866165811326.europe-west3.run.app/)
+### 📷 Photo Table Generator
 * **Status:** MVP
 
 <img src="project4.jpg" width="600" alt="Photo Table Generator Screen" />
 
 Automated generation of photo tables for investigative action protocols. Developed for the Investigative Committee of the Republic of Belarus.
 
-### 📓 [AMIA Journal](https://github.com/a-a-borodin/amia-journal)
+### 📓 AMIA Journal
 * **Status:** In Development
 
 <img src="project5.jpg" width="600" alt="AMIA Journal Screen" />
