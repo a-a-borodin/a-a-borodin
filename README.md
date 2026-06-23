@@ -22,7 +22,7 @@ I combine law and IT: currently a student at the Academy of the Ministry of Inte
 
 ## Projects
 
-### ⚖️ [What If](https://whatif-4dr8.onrender.com/landing)
+### ⚖️ [What If (formerly borodinbaa)](https://whatif-4dr8.onrender.com/landing)
 * **Status:** MVP
 
 <img src="project1.jpg" width="600" alt="What If Screen" />
