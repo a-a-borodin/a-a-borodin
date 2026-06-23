@@ -22,7 +22,7 @@ I combine law and IT: currently a student at the Academy of the Ministry of Inte
 
 ## Projects
 
-### ⚖️ Chto Budet Esli Legal AI Assistant
+### ⚖️ What If Legal AI Assistant [What If](https://chto-budet-esli.onrender.com/landing/)
 * **Status:** MVP
 
 <img src="project1.jpg" width="600" alt="Chto Budet Esli Legal AI Assistant Screen" />
