@@ -22,10 +22,10 @@ I combine law and IT: currently a student at the Academy of the Ministry of Inte
 
 ## Projects
 
-### ⚖️ Borodinbaa Legal AI Assistant
+### ⚖️ Chto Budet Esli Legal AI Assistant
 * **Status:** MVP
 
-<img src="project1.jpg" width="600" alt="Borodinbaa Legal AI Assistant Screen" />
+<img src="project1.jpg" width="600" alt="Chto Budet Esli Legal AI Assistant Screen" />
 
 A RAG-based AI legal assistant. It analyzes legal acts of the Republic of Belarus and provides preliminary case qualification. Included in the state catalog of innovative developments of BelISA (2025). Exhibited at the "Great Stone" Industrial Park.
 
