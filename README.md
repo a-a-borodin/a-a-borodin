@@ -1,6 +1,6 @@
 # Artyom Borodin
 
-[Email](mailto:a.a.borodin@proton.me)
+[Email](mailto:artyom-borodin@proton.me)
 
 ---
 
