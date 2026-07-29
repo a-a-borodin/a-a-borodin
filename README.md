@@ -36,21 +36,21 @@ A RAG-based AI legal assistant. It analyzes legal acts of the Republic of Belaru
 
 Web service for the schedule of the Academy of the Ministry of Internal Affairs of the Republic of Belarus. Used daily by hundreds of cadets, students, and lecturers.
 
-### 🔗 Biblio-formatter
+### 🔗 [Biblio-formatter](https://github.com/artyom-borodin/biblio-formatter)
 * **Status:** MVP
 
 <img src="project3.jpg" width="600" alt="Biblio-formatter Screen" />
 
 AI bibliography formatter based on the standards of the Higher Attestation Commission of the Republic of Belarus. Saves hours of manual work.
 
-### 📷 Photo Table Generator
+### 📷 [Photo Table Generator](https://github.com/artyom-borodin/photo-table-generator)
 * **Status:** MVP
 
 <img src="project4.jpg" width="600" alt="Photo Table Generator Screen" />
 
 Automated generation of photo tables for investigative action protocols. Developed for the Investigative Committee of the Republic of Belarus.
 
-### 📓 AMIA Journal
+### 📓 [AMIA Journal](https://github.com/artyom-borodin/amia-journal)
 * **Status:** In Development
 
 <img src="project5.jpg" width="600" alt="AMIA Journal Screen" />
